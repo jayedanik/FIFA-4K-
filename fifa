@@ -1,0 +1,68 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="LIVE",┃WC┃ NPO 1 HD [NL]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://line.ciao-ott.net:80
+#EXTVLCOPT:http-origin=http://line.ciao-ott.net:80
+http://line.ciao-ott.net:80/live/7VSUAK/S59UJY/1745078.ts
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="LIVE",┃WC┃ ITV 1 HD [UK]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://line.ciao-ott.net:80
+#EXTVLCOPT:http-origin=http://line.ciao-ott.net:80
+http://line.ciao-ott.net:80/live/7VSUAK/S59UJY/1745115.ts
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="LIVE",┃WC┃ FUSSBALL.TV 3 UHD [DE]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://line.ciao-ott.net:80
+#EXTVLCOPT:http-origin=http://line.ciao-ott.net:80
+http://line.ciao-ott.net:80/live/7VSUAK/S59UJY/1745097.ts
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="LIVE",┃WC┃ FUSSBALL.TV 2 UHD [DE]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://line.ciao-ott.net:80
+#EXTVLCOPT:http-origin=http://line.ciao-ott.net:80
+http://line.ciao-ott.net:80/live/7VSUAK/S59UJY/1745096.ts
+
+#EXTINF:-1 tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png" group-title="LIVE",beIN SPORTS 4K [Arabic]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://195.128.27.185:80
+#EXTVLCOPT:http-origin=http://195.128.27.185:80
+http://195.128.27.185:80/live/Juice11/5566651/838077.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fa/7d/92/fa7d92a596dffd0d86b0b85e70f0824e.png" group-title="LIVE",TSN 1 [English]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://195.128.27.185:80
+#EXTVLCOPT:http-origin=http://195.128.27.185:80
+http://195.128.27.185:80/live/Juice11/5566651/838103.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g63MbJn/MAX-SPORTS-5-4-K.png" group-title="LIVE",BEIN SPORTS MAX 5 4K
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://premiumtvs.space:80
+#EXTVLCOPT:http-origin=http://premiumtvs.space:80
+http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/744533.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="LIVE",(DE) Fussball.TV1 (UHD/4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://rgkkw.live:443
+#EXTVLCOPT:http-origin=https://rgkkw.live:443
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/745269.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="LIVE",(HK) Now Sports 616 (UHD/4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://rgkkw.live:443
+#EXTVLCOPT:http-origin=https://rgkkw.live:443
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/745270.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="LIVE",(HK) Now Sports 616 (UHD/4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://premiumtvs.space:80
+#EXTVLCOPT:http-origin=http://premiumtvs.space:80
+http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/745270.ts
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3524.png" group-title="LIVE",|US| TSN Sport 3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://str2.v3v3v.xyz:2082
+#EXTVLCOPT:http-origin=http://str2.v3v3v.xyz:2082
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12352.ts
+
