@@ -1,5 +1,161 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png" group-title="LIVE",beIN SPORTS 4K [Arabic]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://195.128.27.185:80
+#EXTVLCOPT:http-origin=http://195.128.27.185:80
+http://195.128.27.185:80/live/Juice11/5566651/838077.ts
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="LIVE",Fox Sports FIFA 2026
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://premiumtvs.space
+#EXTVLCOPT:http-origin=http://premiumtvs.space
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="LIVE",616 Sports 4K
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://premiumtvs.space
+#EXTVLCOPT:http-origin=http://premiumtvs.space
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="LIVE",(HK) Now Sports 616 (UHD/4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://premiumtvs.space
+#EXTVLCOPT:http-origin=http://premiumtvs.space
+http://premiumtvs.space/live/jen12345/Jen54321/745270.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="LIVE",(DE) Fussball.TV1 (UHD/4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://premiumtvs.space
+#EXTVLCOPT:http-origin=http://premiumtvs.space
+http://premiumtvs.space/live/jen12345/Jen54321/745269.ts
+
+#EXTINF:-1 tvg-logo="https://image.mobazzz.com/?img=http://ptvs.live:80/images/QSYvcYfbD1foQ4qITT2nbYBE7B6IRWj6Ud12HCZIKApqMOSPw-7bCdvw3sbNH3fN.png" group-title="LIVE",HK | NOW SPORTS 618 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465863.ts
+
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/m6.png" group-title="LIVE",FR | M6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465916.ts
+
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/m6.png" group-title="LIVE",FR | M6 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465917.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kG170te.jpeg" group-title="LIVE",USA | FOX 4K
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465858.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVMqVSh/52215.png" group-title="LIVE",FR | M6 4K
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465915.ts
+
+#EXTINF:-1 tvg-logo="http://logo.one-tvplus.com/TR/trt1.png" group-title="LIVE",TR | TRT 1 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465901.ts
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/LATINO/TELEMUNDO.png" group-title="LIVE",USA | TELEMUNDO EAST FHD [ESP]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465856.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orGC14S.png" group-title="LIVE",UK | ITV FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465855.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fx71xsF.jpeg" group-title="LIVE",CAR | RUSH SPORTS FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465851.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awjJpHA.png" group-title="LIVE",LAT | DSPORTS FHD 60FPS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465848.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awjJpHA.png" group-title="LIVE",ARG | DSPORTS FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465842.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12yqgbL.png" group-title="LIVE",ARG | DSPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465840.ts
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",AT | FUSSBALL.TV 1 UHD V2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465815.ts
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",AT | FUSSBALL.TV 1 UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465816.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENiwWVs.png" group-title="LIVE",BR | CLARO TV+ 4K
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465801.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhSeRbs.png" group-title="LIVE",USA | FOX SPORTS 1 4K
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465857.ts
+
+#EXTINF:-1 tvg-logo="http://154.6.190.70:1234/u=kimo/p=26125f65515e77e178722561f5042ae4fff9b864c568113f3e0d6c251fa969c8/logos/nowhk-nowsports4k616.png" group-title="LIVE",HK | NOW SPORTS 4K 616
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465865.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NHENgGw.png" group-title="LIVE",CAN | TSN 4K
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://foxbleu-cdn.com
+#EXTVLCOPT:http-origin=http://foxbleu-cdn.com
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465866.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7vntPyV/MAX-SPORTS-5-FHD.png" group-title="LIVE",BEIN SPORTS MAX 5 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://fastshare1.com:80
+#EXTVLCOPT:http-origin=http://fastshare1.com:80
+http://fastshare1.com:80/live/7654321/1234567/744527.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="LIVE",(DE) Fussball.TV1 (UHD/4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://fastshare1.com:80
+#EXTVLCOPT:http-origin=http://fastshare1.com:80
+http://fastshare1.com:80/live/7654321/1234567/745269.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="LIVE",(HK) Now Sports 616 (UHD/4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=http://fastshare1.com:80
+#EXTVLCOPT:http-origin=http://fastshare1.com:80
+http://fastshare1.com:80/live/7654321/1234567/745270.ts
+
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="LIVE",┃WC┃ NPO 1 HD [NL]
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=http://line.ciao-ott.net:80
@@ -23,12 +179,6 @@ http://line.ciao-ott.net:80/live/7VSUAK/S59UJY/1745097.ts
 #EXTVLCOPT:http-referrer=http://line.ciao-ott.net:80
 #EXTVLCOPT:http-origin=http://line.ciao-ott.net:80
 http://line.ciao-ott.net:80/live/7VSUAK/S59UJY/1745096.ts
-
-#EXTINF:-1 tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png" group-title="LIVE",beIN SPORTS 4K [Arabic]
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=http://195.128.27.185:80
-#EXTVLCOPT:http-origin=http://195.128.27.185:80
-http://195.128.27.185:80/live/Juice11/5566651/838077.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fa/7d/92/fa7d92a596dffd0d86b0b85e70f0824e.png" group-title="LIVE",TSN 1 [English]
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
@@ -65,10 +215,4 @@ http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/745270.ts
 #EXTVLCOPT:http-referrer=http://str2.v3v3v.xyz:2082
 #EXTVLCOPT:http-origin=http://str2.v3v3v.xyz:2082
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12352.ts
-
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="LIVE", Fox Sports FIFA 2026
-http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="LIVE", 616 Sports 4K
-http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
